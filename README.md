@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWithSanket
-- 👀 I’m interested in Web Developement and GUI Interface
+- 👀 I’m interested in Web Developement and GUI Interface in Python.
 - 🌱 I’m currently learning Full Stack Web Development Using Node.js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on With Well knowned Organizations. 
 - 📫 How to reach me- (sanketsinghal1999@gmail.com)
 
 <!---
