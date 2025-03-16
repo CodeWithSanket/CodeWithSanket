@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sanket Singhal! 🚀
 
-![Banner](https://github.com/SanketSinghal/SanketSinghal/blob/main/banner.png)
+![Banner](https://raw.githubusercontent.com/SanketSinghal/SanketSinghal/main/banner.png)
 
 ## 🌟 About Me
 
@@ -17,7 +17,7 @@ I specialize in **building high-performance web & mobile applications** using mo
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,react-native,ts,js,html,css,tailwind,redux,git,github,aws,docker,kubernetes,java,spring,mysql,postgres,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=react,react-native,ts,js,html,css,tailwind,redux,git,github,aws,docker,kubernetes,nodejs,mysql,postgres,mongodb"/>
 </p>
 
 ---
