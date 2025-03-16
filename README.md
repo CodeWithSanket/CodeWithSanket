@@ -48,10 +48,10 @@
 ## 🌎 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanket-singhal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=true" /></a>
+  <a href="https://www.linkedin.com/in/sanket-singhal-083257183/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=true" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react&logoColor=white&animation=true" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&animation=true" /></a>
-  <a href="https://github.com/SanketSinghal?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&animation=true" /></a>
+  <a href="mailto:sanket0112singhal@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&animation=true" /></a>
+  <a href="https://github.com/CodeWithSanket"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&animation=true" /></a>
 </p>
 
 ---
