@@ -1,12 +1,12 @@
 # Hi there, I'm Sanket Singhal! 👋
 
 ## 🚀 About Me
-I'm a **Frontend Developer** specializing in **React.js, React Native, and TypeScript** with experience in **backend development (Java, Spring Boot)** and **cloud technologies (AWS, Docker, Kubernetes)**. I love building scalable and performant applications, exploring new technologies, and contributing to open source.
+I'm a **Frontend Developer** specializing in **React.js, React Native, and TypeScript** with experience in **backend development (NodeJS, Fastify)** and **cloud technologies (AWS, Docker, Kubernetes)**. I love building scalable and performant applications, exploring new technologies, and contributing to open source.
 
 - 🔭 Currently working on **React Native industry-based POCs**
 - 🌱 Learning **Flexbox & Grid to improve my CSS skills**
 - 💬 Ask me about **React, JavaScript, TypeScript, AWS, and performance optimization**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sanket-singhal)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sanket-singhal-083257183/)**
 
 ---
 
