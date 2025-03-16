@@ -11,7 +11,7 @@
 🎯 **Frontend Developer | React & React Native Enthusiast | Cloud & DevOps Explorer**  
 💡 Passionate about **Scalability, Performance Optimization & Open Source**  
 🔍 Currently **Exploring:** React Native POCs, Flexbox & Grid  
-📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/sanket-singhal)**  
+📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/sanket-singhal-083257183/)**  
 ⚡ **Motto:** "Code. Learn. Innovate. Repeat!"
 
 ---
