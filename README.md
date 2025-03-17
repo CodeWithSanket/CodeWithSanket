@@ -1,7 +1,7 @@
 # 🚀 Welcome to My GitHub Profile! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=700&height=50&lines=Frontend+Developer+%7C+React+Native+Enthusiast+%7C+Cloud+%26+DevOps+Explorer;Passionate+about+Performance+Optimization+%26+Scalability;Building+High-Performance+Web+%26+Mobile+Apps;React.js+%7C+TypeScript+%7C+AWS+%7C+Kubernetes+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=1000&height=50&lines=Frontend+Developer+%7C+React+Native+Enthusiast+%7C+Cloud+%26+DevOps+Explorer;Passionate+about+Performance+Optimization+%26+Scalability;Building+High-Performance+Web+%26+Mobile+Apps;React.js+%7C+TypeScript+%7C+AWS+%7C+Kubernetes+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/sanket-singhal-083257183/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=true" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react&logoColor=white&animation=true" /></a>
   <a href="mailto:sanket0112singhal@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&animation=true" /></a>
-  <a href="https://github.com/CodeWithSanket"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&animation=true" /></a>
+  <a href="[https://github.com/SanketSinghal?tab=repositories](https://github.com/CodeWithSanket?tab=repositories)"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&animation=true" /></a>
 </p>
 
 ---
